@@ -1,0 +1,6 @@
+U need to create  API's for 
+To add a product
+list a product
+update a product
+delete a product
+list all product
